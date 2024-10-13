@@ -1,7 +1,7 @@
 # Speed Typing Game ⌨️⏱️
 
 ### Overview
-The [**Speed Typing Game**](#) is a fun and interactive React-based application that challenges users to type as many words as they can within a given time limit. It helps improve typing speed and accuracy while providing a simple yet engaging user experience.
+The [**Speed Typing Game**](https://speed-typing-game-rouge.vercel.app/) is a fun and interactive React-based application that challenges users to type as many words as they can within a given time limit. It helps improve typing speed and accuracy while providing a simple yet engaging user experience.
 
 ### Features
 - **Typing Challenge**: Users are given a text area to type as many words as possible within a set time (e.g., 30 seconds).
